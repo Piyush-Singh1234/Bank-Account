@@ -2,6 +2,7 @@
 A simple C++ console-based banking application that allows users to create accounts, deposit, and withdraw money with a password-protected system.
 
 Features ✨
+
 ✔ Create a new bank account with a unique account number and password. 
 
 ✔ Deposit money into an account.
