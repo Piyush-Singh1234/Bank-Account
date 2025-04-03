@@ -7,4 +7,3 @@ Features ✨
 ✔ Withdraw money securely using an account number and password.
 ✔ Data persistence using a file (Account.txt) to store account details.
 ✔ Cross-platform support (Works on Linux and Windows).
-
